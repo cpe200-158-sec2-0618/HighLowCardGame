@@ -1,0 +1,9 @@
+C:\Users\mac\Source\Repos\AssignHiLowCardGameUML\HighLowCardGame\HighLowCardGame\bin\Debug\HighLowCardGame.exe.config
+C:\Users\mac\Source\Repos\AssignHiLowCardGameUML\HighLowCardGame\HighLowCardGame\bin\Debug\HighLowCardGame.exe
+C:\Users\mac\Source\Repos\AssignHiLowCardGameUML\HighLowCardGame\HighLowCardGame\bin\Debug\HighLowCardGame.pdb
+C:\Users\mac\Source\Repos\AssignHiLowCardGameUML\HighLowCardGame\HighLowCardGame\obj\Debug\HighLowCardGame.csprojResolveAssemblyReference.cache
+C:\Users\mac\Source\Repos\AssignHiLowCardGameUML\HighLowCardGame\HighLowCardGame\obj\Debug\HighLowCardGame.exe
+C:\Users\mac\Source\Repos\AssignHiLowCardGameUML\HighLowCardGame\HighLowCardGame\obj\Debug\HighLowCardGame.pdb
+\\psf\Home\Documents\GitHubVisualStudio\HighLowCardGame\HighLowCardGame\HighLowCardGame\bin\Debug\HighLowCardGame.exe.config
+\\psf\Home\Documents\GitHubVisualStudio\HighLowCardGame\HighLowCardGame\HighLowCardGame\obj\Debug\HighLowCardGame.exe
+\\psf\Home\Documents\GitHubVisualStudio\HighLowCardGame\HighLowCardGame\HighLowCardGame\obj\Debug\HighLowCardGame.pdb
